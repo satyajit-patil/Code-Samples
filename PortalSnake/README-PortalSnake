@@ -1,1 +1,4 @@
-Programmed (Java) a game which combines elements of the classic game Snake (aka Nibble) with the modern puzzle game Portal.
+http://pages.cs.wisc.edu/~cs302/index_201509.cgi?r=programs&programNumber=3
+
+Description
+In this programming assignment, you will implement a new game called Portal Snake. This game combines elements from the classic game of Snake (aka Nibble) with the modern puzzle game Portal. In this game, you maneuver a snake to collect apples that extend the length of its body. You win by collecting all of the apples on a given level. However colliding with any rocks or with your own body will end your game with a loss. The twist on this classic Snake gameplay, is that levels also contain pairs of portals (blue and orange) that teleport your snake from one part of the screen to another.
