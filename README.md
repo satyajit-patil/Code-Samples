@@ -1,2 +1,2 @@
-# Portal-Snake
-Game which combines elements of the classic game Snake with the modern puzzle game Portal
+# Code-Samples
+This repository includes some of the project I have worked on over the last year. 
